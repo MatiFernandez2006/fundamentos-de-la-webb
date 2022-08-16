@@ -6,3 +6,7 @@
     align-items: center;
     justify-content: space-evenly;
 }
+
+git config --global user.email "benjamin.castro.sepulveda@alumnos.sip.cl"
+git config --global user.name "MatiFernandez2006"
+
